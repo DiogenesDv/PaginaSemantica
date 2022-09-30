@@ -1,3 +1,2 @@
 # EstruturaSemantica
-# EstruturaSemantica
-# PaginaSemantica
+
